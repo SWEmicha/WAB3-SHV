@@ -1,4 +1,4 @@
-Willkommen im Git der WAB3 Gruppe SMV.
+Willkommen im Git der WAB3 Gruppe SHV.
 
 Anbei eine kurze Erklärung der einzelnen Ordner:
 
