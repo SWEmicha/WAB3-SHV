@@ -1,5 +1,7 @@
 Willkommen im Git der WAB3 Gruppe SHV.
 
+Aufgabenliste: https://docs.google.com/spreadsheets/d/1gZdgGqE9lNomzNGMiUjU30VScksV-ygKiEnmumYIFdM/edit
+
 Anbei eine kurze Erklärung der einzelnen Ordner:
 
 (18.04) Präsentationen/KW17 = Jedes Teilgebiet erstellt ca. 3 Folien zum aktuellen Stand
